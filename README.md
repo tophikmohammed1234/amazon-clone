@@ -1,6 +1,6 @@
 # Amazon Clone
 
-This project is an Amazon clone built using React, Firebase, Stripe, Node.js, and Vite. It replicates key features of Amazon, including user authentication, product browsing, and payment processing.
+This project is an Amazon clone built using React, Firebase, Stripe and Node.js. It replicates key features of Amazon, including user authentication, product browsing, and payment processing.
 
 ## Table of Contents
 - [Features](#features)
