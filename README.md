@@ -41,11 +41,11 @@ To run this project locally, follow these steps:
    - Enable Authentication and Firestore Database in the Firebase project.
    - Obtain your Firebase configuration.
 4. Setup Stripe:
-  - Create a Stripe account at Stripe.
-  - Obtain your Stripe API keys.
+   - Create a Stripe account at Stripe.
+   - Obtain your Stripe API keys.
 5. Setup Node.js Backend:
-  - Ensure Node.js is installed on your machine.
-  - Set up your backend server in the server directory (or wherever your server code is located).
+   - Ensure Node.js is installed on your machine.
+   - Set up your backend server in the server directory (or wherever your server code is located).
 
 ## Environment Variables
 
